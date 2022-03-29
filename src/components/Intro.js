@@ -45,7 +45,7 @@ const Intro = ({ title, _onStartClick }) => {
         <div className="corner" />
         <h1>{title}</h1>
         <ul className="list-group">
-          <li className="list-group-item">Consists of 5 questions</li>
+          <li className="list-group-item">Consists of 40 questions</li>
           <li className="list-group-item">
             Answer honestly, there's no right or wrong answer
           </li>
